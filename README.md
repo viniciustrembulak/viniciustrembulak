@@ -14,6 +14,7 @@ Trabalho com **automação e infraestrutura de varejo**: mantenho e automatizo f
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnubash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -25,7 +26,6 @@ Trabalho com **automação e infraestrutura de varejo**: mantenho e automatizo f
 | Projeto | Descrição |
 |---|---|
 | [github-favorites](https://github.com/viniciustrembulak/github-favorites) | App em JavaScript para salvar seus usuários favoritos do GitHub |
-| [calculo_imc](https://github.com/viniciustrembulak/calculo_imc) | Calculadora de IMC em HTML, CSS e JavaScript |
 
 ---
 
