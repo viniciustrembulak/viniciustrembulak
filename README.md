@@ -30,4 +30,3 @@ Trabalho com **automação e infraestrutura de varejo**: mantenho e automatizo f
 
 ---
 
-Sinta-se à vontade para explorar meus repositórios e entrar em contato!
