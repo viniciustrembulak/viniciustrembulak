@@ -28,5 +28,5 @@ Trabalho com **automação e infraestrutura de varejo**: mantenho e automatizo f
 | 🛡️ [fleetwatch](https://github.com/viniciustrembulak/fleetwatch) | Monitor de integridade para frotas Linux via SSH, sem agente: detecta persistência (chaves SSH, usuários, SUID, cron, portas) contra uma baseline. Inclui laboratório com containers e ataque simulado mapeado no MITRE ATT&CK |
 | [github-favorites](https://github.com/viniciustrembulak/github-favorites) | App em JavaScript para salvar seus usuários favoritos do GitHub |
 
----
+
 
